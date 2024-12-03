@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "r2g0hAyY#O-V1wOlm-TUllF2ZXwu0CHcMgasNiw_jxpgOWp-hVkY",
       "required": true,
-      "value": ""
+      "value": "r2g0hAyY#O-V1wOlm-TUllF2ZXwu0CHcMgasNiw_jxpgOWp-hVkY"
     },  
     
     "MODE": {
@@ -51,7 +51,7 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
+      "required": false,
       "value": "false"
     }
 
